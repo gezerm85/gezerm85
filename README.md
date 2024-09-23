@@ -1,3 +1,5 @@
+<hr>
+ 
 <br clear="both">
 
 <div align=center>
@@ -10,10 +12,12 @@
 
 ###
 
+<div align=center>
 <img src="https://raw.githubusercontent.com/gezerm85/gezerm85/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
-
+<hr>
 <br clear="both">
 
 <div align="center">
@@ -39,29 +43,30 @@
 </div>
 
 ###
+<hr>
 
 <br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mehmet-%C3%A7elebi-gezer-605a38217/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="64" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/gezerm85" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="64" height="40" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
   <a href="https://www.instagram.com/gezerm85/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="64" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
   <a href="gezermcelebi@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="64" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://kervanworkspace.slack.com/team/U07EYMCV39C" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="64" height="40" alt="slack logo"  />
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="slack logo"  />
   </a>
 </div>
 
 ###
-
+<hr>
 <br clear="both">
 
 <div align="center">
@@ -75,5 +80,6 @@
 <div align="center">
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZpMmt3cThjaWY0M3JobjBkYnFlbW0yMzQ2Y2ZkbWcycG91eTFzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp"  />
 </div>
+<hr>
 
 ###
