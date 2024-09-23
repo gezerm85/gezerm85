@@ -62,6 +62,7 @@
 
 ###
 
+<br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/gezerm85/count.svg?"  />
@@ -69,6 +70,7 @@
 
 ###
 
+<br clear="both">
 
 <div align="center">
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZpMmt3cThjaWY0M3JobjBkYnFlbW0yMzQ2Y2ZkbWcycG91eTFzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp"  />
